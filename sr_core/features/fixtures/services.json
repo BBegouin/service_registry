@@ -1,0 +1,50 @@
+[
+  {
+    "model": "sr_core.service",
+    "pk": 1,
+    "fields": {
+      "name": "test",
+      "version": "0.0.1"
+    }
+  },
+  {
+    "model": "sr_core.service",
+    "pk": 2,
+    "fields": {
+      "name": "test",
+      "version": "0.0.1"
+    }
+  },
+  {
+    "model": "sr_core.service",
+    "pk": 3,
+    "fields": {
+      "name": "test",
+      "version": "0.0.2"
+    }
+  },
+  {
+    "model": "sr_core.service",
+    "pk": 4,
+    "fields": {
+      "name": "test",
+      "version": "0.0.2"
+    }
+  },
+  {
+    "model": "sr_core.service",
+    "pk": 5,
+    "fields": {
+      "name": "test2",
+      "version": "0.0.2"
+    }
+  },
+  {
+    "model": "sr_core.service",
+    "pk": 6,
+    "fields": {
+      "name": "test2",
+      "version": "0.0.2"
+    }
+  }
+]
