@@ -21,7 +21,6 @@ def step_impl(context):
 def step_impl(context,service):
     resp = client.get('/service/?name='+service)
     context.response = resp
-    print(resp.data)
     assert resp.status_code == status.HTTP_200_OK
 
 @when('I search for a service "{service}" with version "{version}"')
